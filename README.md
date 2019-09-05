@@ -32,6 +32,12 @@
 !pip install --pre gluoncv
 ```
 
+如果遇到`GPU is not enabled`，说明你自己装了一个CPU版本的mxnet，把GPU版本的覆盖掉了，修复：
+
+```
+!pip install --pre --upgrade mxnet-cu100
+```
+
 申请新机器，请发送邮件到
 
 ```
