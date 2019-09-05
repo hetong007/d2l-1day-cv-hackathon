@@ -9,6 +9,23 @@
 
 如果github下载速度太慢了，可以试用这个百度网盘链接：https://pan.baidu.com/s/1UpAM06U9E2WzePm2JGqZhQ
 
+## 服务器配置
+
+如果jupyter让你选择kernel，建议选择 `conda_mxnet_p36`
+
+在jupyter notebook上下载这个repo，并解压数据，可以在一个代码cell里输入下面的命令：
+
+```
+!git clone https://github.com/hetong007/d2l-1day-cv-hackathon.git
+!cd d2l-1day-cv-hackathon && unzip images.zip
+```
+
+在jupyter notebook里安装 gluoncv，可以在一个代码cell里输入下面的命令：
+
+```
+!pip install gluoncv
+```
+
 ## 训练目标检测器
 
 打开`training_object_detector.ipynb`，学习和训练一个目标检测器
