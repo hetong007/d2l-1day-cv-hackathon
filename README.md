@@ -26,6 +26,12 @@
 !pip install --pre gluoncv
 ```
 
+读数据时碰到报错内容含有`Unspecified`或者是`int()`等字样的，请安装最新版 gluoncv:
+
+```
+!pip install --pre gluoncv
+```
+
 申请新机器，请发送邮件到
 
 ```
