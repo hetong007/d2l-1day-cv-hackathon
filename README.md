@@ -31,7 +31,10 @@
 ```
 d2lzh-1day-hackathon@request-nb.mxnet.io
 ```
-更多模型与进阶应用:  gluon-cv.mxnet.io
+
+
+更多模型与进阶应用: https://gluon-cv.mxnet.io
+
 
 ## 训练目标检测器
 
