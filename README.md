@@ -23,7 +23,7 @@
 在jupyter notebook里安装 gluoncv，可以在一个代码cell里输入下面的命令：
 
 ```
-!pip install gluoncv
+!pip install --pre gluoncv
 ```
 
 ## 训练目标检测器
