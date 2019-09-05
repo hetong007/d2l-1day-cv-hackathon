@@ -1,0 +1,5 @@
+*.jpg
+*.xml
+test_data/
+train_data/
+.ipynb_checkpoints/
