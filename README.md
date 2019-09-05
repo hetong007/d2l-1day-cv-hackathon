@@ -26,7 +26,7 @@
 !pip install --pre gluoncv
 ```
 
-申请新机器
+申请新机器，请发送邮件到
 
 ```
 d2lzh-1day-hackathon@request-nb.mxnet.io
