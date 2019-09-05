@@ -5,6 +5,10 @@
 
 当你准备好训练数据后（训练数据是N张jpg图片和同名xml)，将数据上传到远程GPU电脑上的`train_data`文件夹。
 
+## 数据下载
+
+如果github下载速度太慢了，可以试用这个百度网盘链接：https://pan.baidu.com/s/1UpAM06U9E2WzePm2JGqZhQ
+
 ## 训练目标检测器
 
 打开`training_object_detector.ipynb`，学习和训练一个目标检测器
