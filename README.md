@@ -26,6 +26,13 @@
 !pip install --pre gluoncv
 ```
 
+申请新机器
+
+```
+d2lzh-1day-hackathon@request-nb.mxnet.io
+```
+更多模型与进阶应用:  gluon-cv.mxnet.io
+
 ## 训练目标检测器
 
 打开`training_object_detector.ipynb`，学习和训练一个目标检测器
