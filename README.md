@@ -38,11 +38,6 @@
 !pip install --pre --upgrade mxnet-cu100
 ```
 
-申请新机器，请发送邮件到
-
-```
-d2lzh-1day-hackathon@request-nb.mxnet.io
-```
 
 
 更多模型与进阶应用: https://gluon-cv.mxnet.io
